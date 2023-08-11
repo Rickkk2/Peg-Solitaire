@@ -3,4 +3,4 @@ Python implementation of the game known as *Peg Solitaire*, popular throughout E
 
 Done for the course *Modelización* of the BSc in Mathematics and Computing at UPM.
 
-Submitted in May 4, 2021
+Submitted in May 4, 2021.
